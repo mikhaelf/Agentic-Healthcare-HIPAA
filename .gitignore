@@ -1,0 +1,12 @@
+# README.md is the single source of truth. Everything below is a
+# generated or historic byproduct and should not be tracked.
+
+# Historic/legacy Word doc snapshots — kept locally for reference only
+archive/
+
+# Office lock files
+~$*.docx
+~$*.doc
+
+# macOS
+.DS_Store
